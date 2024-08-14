@@ -91,6 +91,12 @@ footer {
 footer p {
     margin: 0;
 }
+.fab {
+    svg { 
+        height: 30px;
+        width: 30px;
+    }
+}
 /* style.css */
 /* Basic Styling */
 * {
